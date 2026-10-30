@@ -12,3 +12,5 @@ I'm a full-stack developer, and I run [**Vibra-Labs**](https://vibralabs.co), a 
 <sub>🔒 closed source (the website is the place to see it)</sub>
 
 Need something built? You'll talk directly to the developer. → [vibralabs.co](https://vibralabs.co)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=edgarjc&label=Profile+views&color=lightgrey&style=flat-square" alt="Profile views"></p>
